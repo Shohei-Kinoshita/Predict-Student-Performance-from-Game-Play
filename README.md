@@ -11,7 +11,7 @@
  - コンペ詳細(https://www.kaggle.com/competitions/predict-student-performance-from-game-play)
 
 #### モデル
- - XGBoost×2のアンサンブル(blend)
+ - XGBoostとCatboostのアンサンブル(7:3でblend)
 
 #### バリデーション
  - KFold(5fold)
