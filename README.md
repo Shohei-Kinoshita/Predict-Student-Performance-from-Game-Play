@@ -1,5 +1,5 @@
 ## Predict-Student-Performance-from-Game-Play(Kaggle)
-### 89th Solution
+### 77th Solution
 
 ### コンペ概要
  - ゲームベースの英語学習教材を、プレイした生徒のログデータから成績(ゲーム内の質問に回答できるか)を予測するコンペ
